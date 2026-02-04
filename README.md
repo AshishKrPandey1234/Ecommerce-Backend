@@ -6,6 +6,8 @@ This repository is part of my learning journey in Spring Boot backend developmen
 from controllers, service layer, REST APIs, and Postman testing.
 
 This project focus on:
+<img width="632" height="907" alt="image" src="https://github.com/user-attachments/assets/6ce4cb41-b520-4a46-8d9a-2f3eafb02300" />
+
 
 * Client → Server communication
 * REST API design
@@ -75,7 +77,7 @@ My goal is to:
 
 * Understand backend deeply
 * Build confidence in Spring Boot
-* Relate theory (System Design, DBMS, Networking) with real implementation
+
 
 ---
 
