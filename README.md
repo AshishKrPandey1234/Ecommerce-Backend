@@ -31,6 +31,9 @@ Access Policy:
 
 All APIs are tested using **Postman**.
 
+<img width="1448" height="872" alt="image" src="https://github.com/user-attachments/assets/5c878547-18f8-4dcb-973d-7b56c32d9745" />
+
+
 ---
 
 ## 🧠 Concepts I Learned
@@ -78,10 +81,3 @@ My goal is to:
 
 ### 🙏 Thank You
 
-
-
-If you want, I can also help you:
-
-* Add **API screenshots section**
-* Add **project structure diagram**
-* Convert this into more “resume-friendly” version later 🔥
