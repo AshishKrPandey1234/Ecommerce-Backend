@@ -1,5 +1,5 @@
 
-## 🛒 Learning E-Commerce Platform (Spring Boot – Backend Practice)
+## 🛒 E-Commerce Platform (Spring Boot – Backend Practice)
 
 Hi, I’m Ashish Kumar Pandey.
 This repository is part of my learning journey in Spring Boot backend development. I have built this project to understand how a real e-commerce backend works step by step — starting 
