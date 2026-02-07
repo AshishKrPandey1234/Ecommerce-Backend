@@ -1,5 +1,5 @@
 
-## 🛒 E-Commerce Platform (Spring Boot – Backend Practice)
+## 🛒 E-Commerce Platform (Spring Boot – Backend)
 
 Author: Ashish Kumar Pandey
 
