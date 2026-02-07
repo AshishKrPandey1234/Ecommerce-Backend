@@ -1,14 +1,15 @@
 
 ## 🛒 E-Commerce Platform (Spring Boot – Backend Practice)
 
-Hi, I’m Ashish Kumar Pandey.
-This repository is part of my learning journey in Spring Boot backend development. I have built this project to understand how a real e-commerce backend works step by step — starting 
-from controllers, service layer, REST APIs, and Postman testing.
+Author: Ashish Kumar Pandey
 
-This project focus on:
+This project is a Spring Boot backend implementation of an e-commerce category management module. 
+It follows a layered architecture and exposes RESTful APIs with proper separation of public and admin endpoints. 
+All APIs are tested using Postman.
+
 <img width="632" height="907" alt="image" src="https://github.com/user-attachments/assets/6ce4cb41-b520-4a46-8d9a-2f3eafb02300" />
 
-
+This project focus on:
 * Client → Server communication
 * REST API design
 * Layered architecture (Controller → Service → Model)
@@ -36,47 +37,67 @@ All APIs are tested using **Postman**.
 <img width="1448" height="872" alt="image" src="https://github.com/user-attachments/assets/5c878547-18f8-4dcb-973d-7b56c32d9745" />
 
 
----
+## 🧱 Architecture Used
 
-## 🧠 Concepts I Learned
+Layered Architecture:
+Controller → Service → Repository → Model
 
-* Spring Boot project structure
-* @RestController, @Service annotations
-* Request mapping (GET, POST, PUT, DELETE)
-* How JSON is mapped to Java objects (Jackson serialization)
-* Service layer responsibility
-* Basic error handling
-* How backend APIs work before connecting to DB
+Responsibilities:
+
+Controller handles HTTP requests
+
+Service contains business logic
+
+Repository manages data operations
+
+Model represents domain entities
+
+JSON ↔ Java mapping using Jackson
+
+Unique ID management for entities
+
+Structured REST responses
+
+End-to-end API testing with Postman
+
+
 
 ---
 
 ## 🛠 Tech Stack
 
-* Java
-* Spring Boot
-* REST API
-* Postman (API Testing)
+Java
+
+Spring Boot
+
+REST APIs
+
+Lombok
+
+Postman for API Testing
 
 ---
 
-## 🚀 Next Plan
+## 📂 Project Structure
 
-I will continue this project by adding:
+controller/ – REST endpoints
 
-1. Database integration (MySQL + JPA + Hibernate)
-2. Repository layer
-3. Validation & exception handling
-4. Proper DTO structure
-5. Frontend connection later
+service/ – business logic
+
+repositories/ – data handling layer
+
+model/ – entity classes
 
 
-## 💡 Purpose of This Repo
+## 🎯 Outcome
 
-This is a **learning repository**, not a production project.
-My goal is to:
+Successfully built working backend APIs for category management
 
-* Understand backend deeply
-* Build confidence in Spring Boot
+Implemented proper separation of public and admin routes
+
+Validated complete request flow using Postman
+
+Followed industry-standard layered design
 
 
 ---
